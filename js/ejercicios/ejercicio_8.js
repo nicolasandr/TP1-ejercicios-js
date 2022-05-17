@@ -6,5 +6,7 @@ if(numprimo == 0)
 {
     document.write('EL numero\n'+ numero1 + '\n es divisible por 2');
 }
-else
-document.write('EL numero\n'+ numero1 + '\n NO es divisible por 2');
+else{
+    document.write('EL numero\n'+ numero1 + '\n NO es divisible por 2');
+}
+
