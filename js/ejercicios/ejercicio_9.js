@@ -1,3 +1,6 @@
+/*9.- Escribe un programa que pida una frase y escriba las vocales que aparecen
+Nota: Tener en cuenta la función length y substring o charAt (developer mozilla)
+*/
 let frase = prompt('Ingrese una frase de 5 caracteres');
 console.log(frase.length);
 console.log(frase.substring(0,1)); //toma solamente la promera letra

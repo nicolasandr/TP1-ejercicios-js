@@ -1,3 +1,5 @@
+/*11.- Añadir al ejercicio anterior que nos diga por cuál de los cuatro
+ es divisible (hay que decir todos por los que es divisible)*/
 let numero = prompt('Escriba un numero'); // divisible por 2,3,5,7
 if((numero%2) == 0){
     document.write('EL numero\n'+ numero+ '\n es divisible por 2<br>');
